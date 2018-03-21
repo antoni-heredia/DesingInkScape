@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="140mm"
+   height="50mm"
+   viewBox="0 0 140 50"
+   id="svg3352"
+   version="1.1">
+  <defs
+     id="defs3" />
+  <metadata
+     id="metadata3356">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <text
+       id="text3367"
+       y="8.2584391"
+       x="26.275564"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:125%;font-family:'Old London';-inkscape-font-specification:'Old London';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="8.2584391"
+         x="26.275564"
+         id="tspan3369" /></text>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot3547"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3549"><rect
+           y="223.41536"
+           x="77.5"
+           height="78.75"
+           width="183.33333"
+           id="rect3551" /></flowRegion><flowPara
+         id="flowPara3553" /></flowRoot>    <path
+       id="path3371"
+       d="M 18.627232,38.157421 C 15.65376,37.598719 12.967529,36.163565 10.756053,33.952142 7.2336527,30.429824 5.5346562,25.548648 6.0925622,20.554044 6.3055125,18.647624 6.7456755,17.109968 7.5916819,15.317053 8.8422343,12.666796 10.593461,10.578545 12.880881,9.0099456 15.294406,7.3548708 17.799975,6.5218061 20.786152,6.3815594 29.484676,5.9730307 36.736525,13.231433 36.735538,22.345361 c -2.59e-4,2.833129 -0.504989,4.992009 -1.757152,7.516556 -2.16864,4.372305 -6.254738,7.446614 -11.056214,8.318503 -1.372311,0.249195 -3.904835,0.238195 -5.29494,-0.023 z m 9.02179,-5.925704 0,-0.608271 -1.817339,0 -1.817339,0 0,-0.878612 0,-0.878613 -0.64905,0 -0.649049,0 0,-5.474433 0,-5.474432 -1.168289,0 -1.16829,0 0,5.474432 0,5.474433 -0.713954,0 -0.713955,0 0,0.878613 0,0.878612 -1.752434,0 -1.752434,0 0,0.608271 0,0.60827 6.101067,0 6.101066,0 0,-0.60827 z M 15.93086,25.928666 c 0.814543,-0.406664 1.722798,-1.759506 1.722798,-2.566101 0,-0.139022 -0.554938,-1.460869 -1.233194,-2.937438 -0.678257,-1.476569 -1.233195,-2.724003 -1.233195,-2.772077 0,-0.04807 2.803895,-0.08741 6.230877,-0.08741 3.426981,0 6.230876,0.02899 6.230876,0.06443 0,0.03544 -0.558601,1.267184 -1.241334,2.737217 -1.406333,3.028059 -1.438555,3.235684 -0.685778,4.419108 0.999347,1.57105 3.298297,1.995144 4.75759,0.877645 0.515361,-0.394654 1.321036,-1.77699 1.325272,-2.273835 0.0011,-0.118229 -0.743777,-1.841472 -1.655077,-3.82943 l -1.656909,-3.61447 -7.084601,-0.0013 -7.084602,-0.0013 -1.661817,3.615829 -1.661817,3.615829 0.152147,0.598358 c 0.526857,2.072005 2.848253,3.118876 4.778764,2.15506 z m 7.027474,-11.938074 0.436804,-0.997529 -0.434315,-0.822646 -0.434315,-0.822646 -0.980201,0 -0.980202,0 -0.471451,0.832355 -0.471453,0.832355 0.471604,0.992455 0.471602,0.992455 0.977562,-0.0046 0.977561,-0.0046 0.436804,-0.997529 z"
+       style="fill:#0e232e" />
+    <path
+       transform="scale(0.28222222,0.2822222)"
+       id="path3373"
+       d="M 70.670423,135.45857 C 62.393623,134.96271 54.096368,131.98767 46.0904,126.64526 42.16906,124.02853 34.477424,116.31427 31.617471,112.12976 27.325247,105.84964 24.135067,98.310912 22.468665,90.510178 21.40245,85.519032 21.41884,73.026107 22.498155,68.032087 26.24306,50.704299 36.667965,36.569415 51.520935,28.680776 58.880139,24.772192 66.83944,22.897084 76.08709,22.893311 c 14.2399,-0.0058 26.80511,5.257347 37.08461,15.533534 7.82095,7.818425 12.88444,17.074546 15.47001,28.279346 1.23325,5.344416 1.53193,16.484771 0.59481,22.185608 -2.8777,17.506161 -13.90145,33.006031 -28.98276,40.751051 -9.650345,4.95594 -17.658099,6.53016 -29.583337,5.81572 z m 27.416625,-21.30256 0.124963,-2.39583 -6.479129,0 -6.479125,0 0,-3.125 0,-3.125 -2.291667,0 -2.291667,0 0,-19.375002 0,-19.375 -4.375,0 -4.375,0 0,19.375 0,19.375002 -2.5,0 -2.5,0 0,3.125 0,3.125 -6.25,0 -6.25,0 0,2.22222 c 0,1.22222 0.12667,2.34889 0.281489,2.50371 0.154819,0.15482 9.951695,0.23295 21.770832,0.17361 l 21.489346,-0.10788 0.124958,-2.39583 z M 56.323827,91.972866 c 3.372434,-1.649979 6.801692,-6.791367 6.2776,-9.411829 -0.192016,-0.960084 -3.057243,-7.663742 -7.510358,-17.571692 l -1.076804,-2.395833 21.859225,0 21.859229,0 -1.488646,3.229166 c -7.413116,16.080517 -7.850716,17.653396 -5.857629,21.054342 3.658683,6.243071 11.443416,8.357258 17.077366,4.637887 1.85624,-1.225433 4.7355,-5.471562 5.12765,-7.561895 0.30203,-1.609959 -0.39072,-3.357188 -7.55874,-19.064634 l -3.80434,-8.336533 -25.357915,0 -25.357917,0 -5.754396,12.491196 c -3.164917,6.870158 -5.754395,12.91 -5.754395,13.421871 0,1.848341 1.683258,5.39757 3.365787,7.096916 3.856801,3.895359 9.076939,4.7973 13.954283,2.411038 z m 25.22923,-42.350117 1.5513,-3.595763 -1.529467,-2.963565 -1.529467,-2.963564 -3.651958,-0.0032 -3.651958,-0.0032 -0.824059,1.354166 c -0.453233,0.744792 -1.215929,2.104167 -1.694875,3.020834 l -0.870808,1.666666 1.704971,3.661998 1.704975,3.661997 3.620025,-0.120331 3.620021,-0.12033 1.5513,-3.595763 z"
+       style="fill:#0e232e;fill-opacity:1" />
+    <flowRoot
+       transform="translate(-2.9648859,-1.1571836)"
+       style="font-style:normal;font-weight:normal;font-size:28.22222137px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       id="flowRoot3474"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3476"><rect
+           style="font-size:28.22222137px;fill:#0e232e;fill-opacity:1;"
+           y="1.6694437"
+           x="43.391666"
+           height="65.381477"
+           width="71.731483"
+           id="rect3478" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.22222137px;font-family:'Another day in Paradise';-inkscape-font-specification:'Another day in Paradise';fill:#0e232e;fill-opacity:1;"
+         id="flowPara3480">A</flowPara></flowRoot>    <text
+       id="text3482"
+       y="14.356191"
+       x="67.108475"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Another day in Paradise';-inkscape-font-specification:'Another day in Paradise';letter-spacing:0.04325077px;fill:#0e232e;fill-opacity:1"
+         y="14.356191"
+         x="67.108475"
+         id="tspan3484">ngel Montoro</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:'Another day in Paradise';-inkscape-font-specification:'Another day in Paradise';letter-spacing:0.04325077px;fill:#0e232e;fill-opacity:1"
+         id="tspan3486"
+         y="30.23119"
+         x="67.108475">bogado</tspan></text>
+    <text
+       id="text3488"
+       y="18.367592"
+       x="111.94814"
+       style="font-style:normal;font-weight:normal;font-size:11.28888798px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="18.367592"
+         x="111.94814"
+         id="tspan3490" /></text>
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot3492"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3494"><rect
+           y="42.58202"
+           x="222.91667"
+           height="42.5"
+           width="124.58334"
+           id="rect3496" /></flowRegion><flowPara
+         id="flowPara3498" /></flowRoot>    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot3500"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3502"><rect
+           y="30.498688"
+           x="141.66667"
+           height="87.083336"
+           width="267.5"
+           id="rect3504" /></flowRegion><flowPara
+         id="flowPara3506" /></flowRoot>    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot3508"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3510"><rect
+           y="25.082022"
+           x="149.58333"
+           height="92.916664"
+           width="307.91666"
+           id="rect3512" /></flowRegion><flowPara
+         id="flowPara3514" /></flowRoot>    <text
+       id="text3516"
+       y="41.306499"
+       x="42.450924"
+       style="font-style:normal;font-weight:normal;font-size:11.28888798px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:'Another day in Paradise';-inkscape-font-specification:'Another day in Paradise';fill:#0e232e;fill-opacity:1;"
+         y="41.306499"
+         x="42.450924"
+         id="tspan3518">Asesoramiento integral de tu empresa</tspan></text>
+  </g>
+</svg>
